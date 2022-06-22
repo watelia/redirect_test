@@ -1,0 +1,2 @@
+RewriteEngine On
+    RewriteRule ^http://127.0.0.1/redirect_test/htaccess-no-hou/index.html $ http://127.0.0.1/redirect_test/htaccess-no-hou/hogehoge.html [L,R=301]
